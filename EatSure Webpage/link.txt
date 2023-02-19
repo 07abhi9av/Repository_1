@@ -1,0 +1,1 @@
+https://eatsure-deploy-project1.s3.che01.cloud-object-storage.appdomain.cloud/project2.html
